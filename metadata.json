@@ -1,0 +1,8 @@
+{
+  "name": "FitVision AI Studio",
+  "description": "Uma plataforma de educação física personalizada onde você pode registrar seu progresso em exercícios específicos e usar IA para editar suas fotos de treino.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
